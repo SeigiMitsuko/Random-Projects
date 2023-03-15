@@ -8,7 +8,7 @@
     // After some time away, I've decided to make an option to decide what kind of prompt
     //you want.
         // first on the list, get two animals and an option to draw one or a combo
-            // completed March 3, 2023
+            // completed March 15, 2023
 
 #include <iostream>
 #include <stdio.h>
